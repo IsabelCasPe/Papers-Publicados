@@ -25,3 +25,13 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 📊 *Técnicas:* Simulações de Monte Carlo, análise de rede, medidas de risco
 
 ---
+## Contato
+- **Email**: [anacp20@gmail.com](mailto:anacp20@gmail.com)
+- **GitHub**: [@IsabelCasPe](https://github.com/IsabelCasPe)
+---
+## Licença
+- Códigos Python: [MIT License](LICENSE)
+
+**© 2025 Ana Isabel Castillo** 
+> ✨ _"A matemática vibra quando ensinada com beleza e aplicada com alma."_  
+> — Ana Isabel Castillo
