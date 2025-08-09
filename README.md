@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ### Dinâmicas Quânticas Aplicadas ao BTC
 - **Arquivo**: [DinamicasQF.pdf](DinamicasQF.pdf)
-- **Data de Upload**: 09/08/2025
+- **Data de Upload**: 29/06/2025
 - **Resumo**: Este trabalho explora uma abordagem inovadora para modelagem financeira baseada em dinâmicas quânticas, focada em simulações dinâmicas do Bitcoin (BTC-USD). Transformamos dados estáticos em animações interativas usando Python, integrando conceitos como média móvel (\( M_t = \frac{1}{20} \sum_{i=t-19}^{t} P_i \)) e volatilidade estocástica (\( \sigma = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (r_i - \bar{r})^2} \)). Os resultados mostram que o modelo supera estratégias tradicionais, oferecendo ferramentas visuais para investidores gerenciarem riscos em mercados voláteis.
 - **Técnicas**: Simulações dinâmicas, animações com Matplotlib e mplcyberpunk, modelagem estocástica.
 - **Vídeo Associado**: [btc.mp4](btc.mp4) - Confira a animação com efeitos futuristas.
