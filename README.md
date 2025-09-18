@@ -25,6 +25,8 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 📊 *Técnicas:* Simulações de Monte Carlo, análise de rede, medidas de risco
 
 ---
+## Galeria de Padrões e códigos. ©IsabelCasPe.💙
+- ![Fractais e sua beleza infinita♾️](figu1.png) 
 ## Contato
 - **Email**: [anacp20@gmail.com](mailto:anacp20@gmail.com)
 - **GitHub**: [@IsabelCasPe](https://github.com/IsabelCasPe)
