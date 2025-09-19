@@ -28,7 +28,7 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 ## Galeria de Padrões e códigos. ©IsabelCasPe.💙 © 2025. All figures are licensed under CC BY 4.0. Use with attribution.
 - ![Fractais e sua beleza infinita♾️](figu1.png)
 - ![Evolution of Default Buffers. Sistemic Risk Measures.](DefaultBuffer.png)
-- ![]()
+- ![Monte Carlo Candlestick](stockGol.png) : Simulação de preços com velas.
 ---
 ## Contato
 - **Email**: [anacp20@gmail.com](mailto:anacp20@gmail.com)
