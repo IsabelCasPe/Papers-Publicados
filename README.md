@@ -25,7 +25,7 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 📊 *Técnicas:* Simulações de Monte Carlo, análise de rede, medidas de risco
 
 ---
-## Galeria de Padrões e códigos. ©IsabelCasPe.💙 © 2025. All figures are licensed under CC BY 4.0. Use with attribution.
+## Galeria de Padrões e códigos. ©IsabelCasPe.💙 © 2025. All figures are under MIT license Use with attribution. 
 - ![Fractais e sua beleza infinita♾️](figu1.png)
 - ![Evolution of Default Buffers. Sistemic Risk Measures.](DefaultBuffer.png)
 - ![Monte Carlo Candlestick](stockGol.png) : Simulação de preços com velas.
