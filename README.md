@@ -29,6 +29,7 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 - ![Fractais e sua beleza infinita♾️](figu1.png)
 - ![Evolution of Default Buffers. Sistemic Risk Measures.](DefaultBuffer.png)
 - ![Monte Carlo Candlestick](stockGol.png) : Simulação de preços com velas.
+- ![Ibovespa candlestick chart](ibovespaticker.png)  
 ---
 ## Contato
 - **Email**: [anacp20@gmail.com](mailto:anacp20@gmail.com)
