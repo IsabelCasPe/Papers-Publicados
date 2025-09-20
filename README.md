@@ -25,6 +25,11 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 📊 *Técnicas:* Simulações de Monte Carlo, análise de rede, medidas de risco
 
 ---
+
+## Dynamics 
+- ![Heston Model](HestonModel.gif) Simulação do Modelo Heston: Dinâmica de Preço (S_t) e Volatilidade (V_t) ao longo de 252 dias. Inclui análise de risco com Volatilidade Implícita e VaR 95%.
+
+---
 ## Galeria de Padrões e códigos. ©IsabelCasPe.💙 © 2025. All figures are under MIT license Use with attribution. 
 - ![Fractais e sua beleza infinita♾️](figu1.png)
 - ![Evolution of Default Buffers. Sistemic Risk Measures.](DefaultBuffer.png)
