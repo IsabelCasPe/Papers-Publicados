@@ -27,6 +27,9 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 ---
 
 ## Dynamics 
+- ![Black–Scholes - Preço + VaR95 1d](black_scholess.gif)
+Simulação GBM (Black–Scholes) com retornos log, vol realizada e VaR95 1d (linha limite) no eixo de dias úteis.
+
 - ![Heston Model](HestonModel.gif) Simulação do Modelo Heston: Dinâmica de Preço (S_t) e Volatilidade (V_t) ao longo de 252 dias. Inclui análise de risco com Volatilidade Implícita e VaR 95%.
 
 ---
