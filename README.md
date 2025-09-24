@@ -61,6 +61,7 @@ Anima 4 trajetórias GBM (Black–Scholes) em dias úteis, com **VaR95 1d** por 
 ## Licença
 - Códigos Python: [MIT License](LICENSE)
 
-**© 2025 Ana Isabel Castillo** 
-> ✨ _"A matemática vibra quando ensinada com beleza e aplicada com alma."_  
-> — Ana Isabel Castillo
+---
+> ✨ "A matemática vibra quando ensinada com beleza e aplicada com alma."  
+> **© 2025 - Prof. Ana Isabel Castillo** 💙
+---
