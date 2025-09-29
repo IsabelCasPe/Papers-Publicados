@@ -59,7 +59,7 @@ Anima 4 trajetórias GBM (Black–Scholes) em dias úteis, com **VaR95 1d** por 
 - **GitHub**: [@IsabelCasPe](https://github.com/IsabelCasPe)
 ---
 ## Licença
-- Códigos Python: [MIT License](LICENSE)
+- Códigos Python: [Apache License 2.0](LICENSE)
 
 ---
 > ✨ "A matemática vibra quando ensinada com beleza e aplicada com alma."  
