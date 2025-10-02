@@ -15,6 +15,11 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ---
 
+## Master's Dissertation 
+[![Tese USP](https://img.shields.io/badge/Dissertação-USP-blue)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
+
+---
+
 ## Artigos e Trabalhos
 
 ### Dinâmicas Quânticas Aplicadas ao BTC
