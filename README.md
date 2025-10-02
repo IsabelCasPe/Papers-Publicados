@@ -15,7 +15,7 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ---
 
-## Master's Dissertation 
+## Master's Dissertation : Automação de diagnóstico para ensaios nao destrutivos magnéticos. By. @IsabelCasPe. 😎 
 [![Tese USP](https://img.shields.io/badge/Dissertação-USP-blue)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
 
 ---
