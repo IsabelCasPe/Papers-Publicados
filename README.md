@@ -46,6 +46,20 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 🔗 [Acesse o artigo completo no arXiv](https://arxiv.org/pdf/2504.01969v2)  
 📊 *Técnicas:* Simulações de Monte Carlo, análise de rede, medidas de risco
 
+[![USP](https://img.shields.io/badge/USP-Dissertação-0A3D91?logo=academia&logoColor=white)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
+
+---
+
+🚧 **Próximos Papers em Construção** 🚧  
+
+[![Risk Measures](https://img.shields.io/badge/Paper-Risk%20Measures-lightgrey?logo=latex&logoColor=black)]()  
+[![Machine Learning](https://img.shields.io/badge/Paper-Machine%20Learning-lightgrey?logo=python&logoColor=black)]()  
+[![Sistemas Dinâmicos](https://img.shields.io/badge/Paper-Sistemas%20Dinâmicos-lightgrey?logo=apachespark&logoColor=black)]()  
+[![Finanças Complexas](https://img.shields.io/badge/Paper-Finanças%20Complexas-lightgrey?logo=bookstack&logoColor=black)]()  
+[![Redes & Contágio](https://img.shields.io/badge/Paper-Redes%20e%20Contágio-lightgrey?logo=graphcool&logoColor=black)]()  
+
+
 ---
 
 ## Dynamics 
