@@ -9,7 +9,7 @@
 **PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Apache License 2.0](#licença--license--licencia)
 
 ---
-## Repositório Papers-Publicados - Ana Isabel Castillo Pereda
+## Repositório: Prof. Ana Isabel Castillo Pereda
 
 Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovadores nas áreas de **matemática aplicada**, **risco sistêmico**, **simulações estocásticas** e **finanças quânticas**. Este espaço reúne minhas publicações e projetos autoriais, como as dinâmicas quânticas aplicadas ao Bitcoin (BTC), todos disponíveis para exploração e inspiração.
 
@@ -17,6 +17,8 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ## Master's Dissertation : Automação de diagnóstico para ensaios não destrutivos magnéticos. By. @IsabelCasPe. 😎 
 [![Tese USP](https://img.shields.io/badge/Dissertação-USP-blue)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
+
+[![Dissertação USP](https://img.shields.io/badge/Dissertação-USP-blue)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
 
 ---
 
@@ -32,8 +34,6 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 ---
 # ## 🎓 Produção Acadêmica
 Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo Pereda nas áreas de matemática aplicada, risco sistêmico e simulações estocásticas.
-
-[![Dissertação USP](https://img.shields.io/badge/Dissertação-USP-blue)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
 
 ##  Risk Measures, Systemic Risk, and Default Cascades in Global Equity Markets
 [![arXiv](https://img.shields.io/badge/Artigo-arXiv-red)](https://arxiv.org/abs/2504.01969)
