@@ -51,13 +51,20 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 
 ---
 
-🚧 **Próximos Papers em Construção** 🚧  
+### 🚧 **Papers em Construção** 🚧  
 
 [![Risk Measures](https://img.shields.io/badge/Paper-Risk%20Measures-lightgrey?logo=latex&logoColor=black)]()  
 [![Machine Learning](https://img.shields.io/badge/Paper-Machine%20Learning-lightgrey?logo=python&logoColor=black)]()  
 [![Sistemas Dinâmicos](https://img.shields.io/badge/Paper-Sistemas%20Dinâmicos-lightgrey?logo=apachespark&logoColor=black)]()  
 [![Finanças Complexas](https://img.shields.io/badge/Paper-Finanças%20Complexas-lightgrey?logo=bookstack&logoColor=black)]()  
 [![Redes & Contágio](https://img.shields.io/badge/Paper-Redes%20e%20Contágio-lightgrey?logo=graphcool&logoColor=black)]()  
+
+
+[![Risk Measures](https://img.shields.io/badge/Risk%20Measures-Em%20Construção-1E90FF)]()  
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Em%20Construção-32CD32)]()  
+[![Sistemas Dinâmicos](https://img.shields.io/badge/Sistemas%20Dinâmicos-Em%20Construção-DAA520)]()  
+[![Redes Complexas](https://img.shields.io/badge/Redes%20Complexas-Em%20Construção-8A2BE2)]()  
+[![Matemática Financeira](https://img.shields.io/badge/Matemática%20Financeira-Em%20Construção-FF4500)]()  
 
 
 ---
