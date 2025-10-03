@@ -30,10 +30,13 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 - **Vídeo Associado**: [btc.mp4](btc.mp4) - Confira a animação com efeitos futuristas.
 - **Status**: Trabalho autoral, não submetido a journals, disponível para feedback e estudo.
 ---
-# Papers-Publicados
+# ## 🎓 Produção Acadêmica
 Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo Pereda nas áreas de matemática aplicada, risco sistêmico e simulações estocásticas.
 
+[![Dissertação USP](https://img.shields.io/badge/Dissertação-USP-blue)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
+
 ##  Risk Measures, Systemic Risk, and Default Cascades in Global Equity Markets
+[![arXiv](https://img.shields.io/badge/Artigo-arXiv-red)](https://arxiv.org/abs/2504.01969)
 
 📌 *Publicado em:* Quantitative Finance and Economics (QFE) — submissão em avaliação  
 📝 *Resumo:* Este artigo propõe uma extensão do modelo de Gai-Kapadia para simular falhas em redes de ativos globais, com foco em medidas de risco como VaR e CVaR, aplicadas a 20 ativos (Brasil e internacional).  
