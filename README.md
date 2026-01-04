@@ -27,6 +27,11 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ## Artigos e Trabalhos
 
+## Geopolitical Shocks, BRICS Expansion, and Systemic Risk: A Network-Based Perspective on Strategic Disruptions
+- **Arquivo**: [A Network-Base](AnaliseAtual.pdf)
+- **Data de Upload** 04/01/2026
+- **Abstract** : Recent geopolitical interventions in Latin America reveal how strategic political actions, particularly when timed around international diplomatic agreements, can act as exogenous shocks capable of amplifying systemic risk. This short paper connects contemporary events to historical patterns of intervention and containment, highlighting their relevance within network-based models of contagion, default cascades, and institutional fragility. Special attention is given to the role of the BRICS bloc and the growing multipolar structure of the global economy.
+
 ### Dinâmicas Quânticas Aplicadas ao BTC
 - **Arquivo**: [DinamicasQF.pdf](DinamicasQF.pdf)
 - **Data de Upload**: 29/06/2025
