@@ -7,7 +7,7 @@
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/Apache-License-gold)
-![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4) 
 
 **PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Apache License 2.0](#licença--license--licencia)
 
