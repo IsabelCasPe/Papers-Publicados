@@ -32,8 +32,8 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ## BTC vs GLD — Bloomberg-style Animation
 
-![Animação BTC vs GLD](btc_vs_gldUP.gif)
-
+- ![Animação BTC vs GLD](btc_vs_gldUP.gif)
+---  
 Performance relativa normalizada (base 100) em 2 anos.  
 [Ver relatório completo](btcvsgolden.pdf)
 
