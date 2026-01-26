@@ -30,6 +30,13 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ## Artigos e Trabalhos
 
+## BTC vs GLD — Bloomberg-style Animation
+
+![Animação BTC vs GLD](btc_vs_gldUP.gif)
+
+Performance relativa normalizada (base 100) em 2 anos.  
+[Ver relatório completo](btcvsgolden.pdf)
+
 ## Geopolitical Shocks, BRICS Expansion, and Systemic Risk: A Network-Based Perspective on Strategic Disruptions
 - **Arquivo**: [A Network-Base](AnaliseAtual.pdf)
 - **Data de Upload** 04/01/2026
