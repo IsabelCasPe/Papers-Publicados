@@ -30,6 +30,10 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ## Artigos e Trabalhos
 
+## Dynamics IBOV real time decoded Candles. 
+- ![Dynamics IBOV](IBOV_BloombergCandles01.gif)
+---
+
 ## BTC vs GLD — Bloomberg-style Animation
 
 - ![Animação BTC vs GLD](btc_vs_gldUP.gif)
