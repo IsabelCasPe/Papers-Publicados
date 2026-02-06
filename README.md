@@ -94,7 +94,7 @@ Simulação GBM (Black–Scholes) com retornos log, vol realizada e VaR95 1d (li
 
 ---
 
-- ![Black_Scholes](black_scholes_multiupUP.gif)
+- ![Black_Scholes](black_scholes_multiUP.gif)
 **UP**
 
 - ![Black–Scholes  Multi-trajetórias + VaR](black_scholes_multi.gif)
