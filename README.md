@@ -109,7 +109,22 @@ Anima 4 trajetórias GBM (Black–Scholes) em dias úteis, com **VaR95 1d** por 
 - ![Fractais e sua beleza infinita♾️](figu1.png)
 - ![Evolution of Default Buffers. Sistemic Risk Measures.](DefaultBuffer.png)
 - ![Monte Carlo Candlestick](stockGol.png) : Simulação de preços com velas.
-- ![Ibovespa candlestick chart](ibovespaticker.png)  
+- ![Ibovespa candlestick chart](ibovespaticker.png)
+
+## 🎬 Dynamic Simulation (Bloomberg-style dashboard)
+
+- ![Vasicek Model](ModelVasicek_fig01.jpeg)
+  
+- ![Vasicek Model](ModelVasicek_fig02.jpeg)
+  
+- ![Vasicek Model](ModelVasicek_fig03.jpeg)
+  
+- ![Vasicek Model](ModelVasicek_fig04.jpeg)
+
+The full animated Vasicek + Kalman filtering simulation  
+is available on Instagram:
+
+👉 [Watch the dynamic version here](https://www.instagram.com/isabel_maths/)
 ---
 ## Contato
 - **Email**: [anacp20@gmail.com](mailto:anacp20@gmail.com)
