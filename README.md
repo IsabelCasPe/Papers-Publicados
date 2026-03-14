@@ -34,7 +34,7 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 - ![Dynamics IBOV](IBOV_BloombergCandles01.gif)
 ---
 
-## BTC vs GLD — Bloomberg-style Animation
+## BTC vs GLD - Bloomberg-style Animation
 
 - ![Animação BTC vs GLD](btc_vs_gldUP.gif)
 ---  
@@ -69,7 +69,11 @@ Repositório dedicado aos artigos acadêmicos publicados por Ana Isabel Castillo
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 
 ---
+## Study notes on Schrödinger’s 1926 papers Quantisierung als Eigenwertproblem, discussing the mathematical structure of wave mechanics and the Schrödinger equation, with visualizations of quantum wave dynamics.
+© @IsabelCasPe – Maths ∞
+- [Schrodinger PDF](SchrodingerResumos.pdf)
 
+  
 ### 🚧 **Papers em Construção** 🚧  
 
 [![Risk Measures](https://img.shields.io/badge/Paper-Risk%20Measures-lightgrey?logo=latex&logoColor=black)]()  
