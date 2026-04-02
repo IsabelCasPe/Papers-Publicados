@@ -9,6 +9,8 @@
 ![License](https://img.shields.io/badge/Apache-License-gold)
 ![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4) 
 
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel_maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabel_maths/)
+
 **PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Apache License 2.0](#licença--license--licencia)
 
 ---
