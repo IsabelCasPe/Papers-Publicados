@@ -32,6 +32,11 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ## Artigos e Trabalhos
 
+##  Network Contagion, Heavy-Tail Dynamics and Default Cascades
+-[Ver relatório completo](papervonce.pdf)
+
+---
+
 ## Dynamics IBOV real time decoded Candles. 
 - ![Dynamics IBOV](IBOV_BloombergCandles01.gif)
 ---
