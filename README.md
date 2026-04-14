@@ -31,8 +31,9 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 ---
 
 ## Artigos e Trabalhos
+---
 
-##  Network Contagion, Heavy-Tail Dynamics and Default Cascades
+## 1- Network Contagion, Heavy-Tail Dynamics and Default Cascades
 -[Ver relatório completo](papervonce.pdf)
 
 ---
