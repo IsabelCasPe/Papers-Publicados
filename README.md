@@ -33,8 +33,13 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 ## Artigos e Trabalhos
 ---
 
-## 1- Network Contagion, Heavy-Tail Dynamics and Default Cascades
+## V.11- Network Contagion, Heavy-Tail Dynamics and Default Cascades
 -[Ver relatório completo](papervonce.pdf)
+
+---
+
+## V.12 - Early Warning, Network Stress and Cascade Amplificatio : Systemic Risk Engine with Early Warning Signals
+-[Ver relatório Completo](papervivovdoce.pdf)
 
 ---
 
