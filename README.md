@@ -52,6 +52,11 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 --- 
 
+## V.15 - Portfolio Defense, Hedging and Resilience Dynamics
+-[Ver relatório Completo](papervivivquincevip.pdf)
+
+--- 
+
 ## Dynamics IBOV real time decoded Candles. 
 - ![Dynamics IBOV](IBOV_BloombergCandles01.gif)
 ---
