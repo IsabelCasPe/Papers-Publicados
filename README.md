@@ -56,7 +56,18 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 -[Ver relatório Completo](papervivivquincevip.pdf)
 
 --- 
+## V.16 - Recovery Dynamics, Repair Mechanisms and Market Healing
+-[Ver relatório Completo](papervivivquincevip.pdf)
 
+---
+## V.17 - Critical Thresholds, Phase Transitions and Systemic Tipping Points
+-[Ver relatório Completo](papervivivquincevip.pdf)
+
+---
+## International Portfolio
+-[Ver relatório Completo](papervivivquincevip.pdf)
+
+---
 ## Dynamics IBOV real time decoded Candles. 
 - ![Dynamics IBOV](IBOV_BloombergCandles01.gif)
 ---
