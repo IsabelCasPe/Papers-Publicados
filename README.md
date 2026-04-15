@@ -47,6 +47,11 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 ---
 
+## V.14 - Liquidity Shock Propagation and Market Stress Transmission
+-[Ver relatório Completo](papervivovcatorcevip.pdf)
+
+--- 
+
 ## Dynamics IBOV real time decoded Candles. 
 - ![Dynamics IBOV](IBOV_BloombergCandles01.gif)
 ---
