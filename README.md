@@ -23,6 +23,8 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.19796-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.19796)
 
+[![Plain-Language Summary](https://img.shields.io/badge/summary-plain--language-2E8B57?logo=readme&logoColor=white)](https://gist.science/paper/2604.19796)
+
 ---
 
 ## Master's Dissertation : Automação de diagnóstico para ensaios não destrutivos magnéticos. By. @IsabelCasPe. 😎 
