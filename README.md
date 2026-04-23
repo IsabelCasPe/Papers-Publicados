@@ -21,6 +21,8 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 [![USP](https://img.shields.io/badge/USP-Dissertação-0A3D91?logo=academia&logoColor=white)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2604.19796-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.19796)
+
 ---
 
 ## Master's Dissertation : Automação de diagnóstico para ensaios não destrutivos magnéticos. By. @IsabelCasPe. 😎 
