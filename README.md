@@ -25,6 +25,7 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 [![Plain-Language Summary](https://img.shields.io/badge/summary-plain--language-2E8B57?logo=readme&logoColor=white)](https://gist.science/paper/2604.19796)
 
+[![JAES](https://img.shields.io/badge/JAES-Published-0B6E4F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 ---
 
 ## Master's Dissertation : Automação de diagnóstico para ensaios não destrutivos magnéticos. By. @IsabelCasPe. 😎 
