@@ -205,3 +205,10 @@ is available on Instagram:
 > ✨ "A matemática vibra quando ensinada com beleza e aplicada com alma."  
 > **© 2025 - Prof. Ana Isabel Castillo** 💙
 ---
+<p align="center">
+
+<img src="https://img.shields.io/badge/Faith%20%E2%9C%A8-Isaiah%2054%3A17-8B5CF6?style=for-the-badge"/>
+
+</p>
+
+- ![Isaias](Isaiah 5417.png)
