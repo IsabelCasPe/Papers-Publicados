@@ -94,6 +94,11 @@ Ana Isabel Castillo
 -[Ver relatório Completo](papervivivquincevip.pdf)
 
 ---
+## Dynamics Geometric Brownian Motion. 
+- ![geometric brownian](geometric_brownian_motion.gif)
+
+--- 
+
 ## Dynamics IBOV real time decoded Candles. 
 - ![Dynamics IBOV](IBOV_BloombergCandles01.gif)
 ---
