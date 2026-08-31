@@ -41,6 +41,39 @@ Ana Isabel Castillo
 
 [![Published](https://img.shields.io/badge/Peer--Reviewed-JAES-success?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 
+---
+## Financial Intelligence Engine (FIE)
+
+**An operator-based framework for systemic risk, financial networks, contagion dynamics, and scientific visualization.**
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](Financial_Intelligence_Engine_%28FIE%29.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Open-FIE%20Notebook-success?logo=github)](Financial_Intelligence_Engine_%28FIE%29.ipynb)
+
+### Mathematical Architecture
+
+\[
+\mathcal{F}
+=
+\Pi \circ \Psi \circ \mathcal{C} \circ
+\mathcal{G} \circ \mathcal{P} \circ \mathcal{D}
+\]
+
+The implementation integrates:
+
+- **Latent Risk Representation** - nonlinear synthetic financial risk surface
+- **Probabilistic Inference** - dynamic logistic risk scores
+- **Financial Network Construction** - weighted graph representation
+- **Systemic Contagion** - shortest-path distance propagation
+- **Visual Mapping** - quantitative states mapped to visual attributes
+- **Scientific Projection** - dynamic visual analytics and rendering
+
+### Source Code
+
+➡️ **[Open the Financial Intelligence Engine notebook](Financial_Intelligence_Engine_%28FIE%29.ipynb)**
+
+---
+
 [![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
 
 ![Network Science](https://img.shields.io/badge/Network-Science-purple?style=for-the-badge)
