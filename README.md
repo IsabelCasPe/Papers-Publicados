@@ -28,6 +28,8 @@ Bem-vindo ao meu repositório dedicado a artigos acadêmicos e trabalhos inovado
 
 [![JAES](https://img.shields.io/badge/JAES-Published-0B6E4F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.22202-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.22202)
+
 Every published paper has a story behind it.
 
 Today I simply want to say thank you to the editorial team of the Journal of Applied Economic Sciences (JAES) for believing in this research and supporting its publication.
