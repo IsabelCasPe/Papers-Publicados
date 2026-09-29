@@ -95,6 +95,50 @@ The implementation integrates:
 ## Artigos e Trabalhos
 ---
 
+## Risk Dynamics: From Tail Risk to Systemic Contagion
+
+### VaR, CVaR, Heavy Tails, Monte Carlo Estimation and Default Cascades
+
+📄 **Research Manuscript — September 2026**
+
+This manuscript develops a unified quantitative framework connecting
+**tail-risk measurement, heavy-tailed loss distributions, Monte Carlo
+estimation, balance-sheet shocks, financial networks, and default cascades**.
+
+The central research architecture follows the transition
+
+**Loss Distribution → Tail Risk → Statistical Estimation → External Shock → Network Propagation → Systemic Risk**
+
+### Main Topics
+
+- Value at Risk (VaR)
+- Conditional Value at Risk / Expected Shortfall (CVaR / ES)
+- Gaussian and heavy-tailed loss models
+- Student-t distributions
+- Monte Carlo estimation of extreme risk
+- Balance-sheet shocks and capital buffers
+- Financial networks and counterparty exposures
+- Default cascades
+- Gai–Kapadia systemic-risk framework
+- Extensions toward clearing mechanisms, fire sales, and multi-layer contagion
+
+### Manuscript
+
+📘 [**Read the complete PDF - Dynamics Risk**](./Dynamics_Risk%20_ISA.pdf)
+
+### Research Perspective
+
+The manuscript emphasizes that measuring an extreme loss is only the
+first layer of financial-risk analysis. A complete systemic perspective
+also requires understanding whether the loss can exhaust institutional
+capital and whether financial interconnectedness can amplify an initially
+local shock into a system-wide event.
+
+**Ana Isabel Castillo Pereda**  
+Quantitative Finance · Systemic Risk · Financial Networks · Mathematical Modeling
+
+----
+
 ## V.11- Network Contagion, Heavy-Tail Dynamics and Default Cascades
 -[Ver relatório completo](papervonce.pdf)
 
