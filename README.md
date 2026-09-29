@@ -139,6 +139,10 @@ local shock into a system-wide event.
 **Ana Isabel Castillo Pereda**  
 Quantitative Finance · Systemic Risk · Financial Networks · Mathematical Modeling
 
+| Research Manuscript | Title | Topics |
+|---|---|---|
+| [📘 PDF](./Dynamics_Risk%20_ISA.pdf) | **Risk Dynamics: From Tail Risk to Systemic Contagion** | VaR · CVaR · Heavy Tails · Monte Carlo · Financial Networks · Default Cascades |
+
 ----
 
 ## V.11- Network Contagion, Heavy-Tail Dynamics and Default Cascades
