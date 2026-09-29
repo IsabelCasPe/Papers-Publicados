@@ -134,6 +134,8 @@ also requires understanding whether the loss can exhaust institutional
 capital and whether financial interconnectedness can amplify an initially
 local shock into a system-wide event.
 
+- ![Tail_Isa](tail_isa.png)
+
 **Ana Isabel Castillo Pereda**  
 Quantitative Finance · Systemic Risk · Financial Networks · Mathematical Modeling
 
