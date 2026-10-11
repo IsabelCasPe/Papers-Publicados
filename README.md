@@ -49,7 +49,7 @@ Ana Isabel Castillo
 
 **An operator-based framework for systemic risk, financial networks, contagion dynamics, and scientific visualization.**
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.15.0%2B-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](Financial_Intelligence_Engine_%28FIE%29.ipynb)
 [![Open Notebook](https://img.shields.io/badge/Open-FIE%20Notebook-success?logo=github)](Financial_Intelligence_Engine_%28FIE%29.ipynb)
 
