@@ -4,7 +4,7 @@
 [![Papers2026](https://img.shields.io/badge/📄_Papers_&_Research-Happy_New_Year_2026-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A3D91&color=FFD700)](https://github.com/IsabelCasPe/Papers-Publicados)  
 **Happy New Year 2026** - *seguindo com pesquisa, pensamento crítico e análise estrutural em risco sistêmico e redes globais.*
 
-![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)  
+![Python 3.10+](https://img.shields.io/badge/Python-3.15.0%2B-blue)  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen) 
 ![License](https://img.shields.io/badge/Apache-License-gold)
 ![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4) 
